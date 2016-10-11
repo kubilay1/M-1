@@ -1,0 +1,27 @@
+h2 {
+    
+    color:beige;
+}
+body {
+    
+    color:white;
+}
+h1 {
+    color:#2C9393;
+}
+h3{
+    color:beige
+}
+h4{
+    color: beige
+}
+h5{
+    color: beige
+}
+html {background-image: url(achtergrond.jpg);
+background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+h1 {border-width: medium}
